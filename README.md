@@ -37,8 +37,8 @@ IDE:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NazaretCS)  
 
-![GitHub metrics](https://metrics.lecoq.io/NazaretCS)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=NazaretCS&layout=compact&theme=dark)  
+
+![GitHub metrics](https://metrics.lecoq.io/NazaretCS)  
 
 ![Profile views](https://gpvc.arturio.dev/NazaretCS)  
