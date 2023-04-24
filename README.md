@@ -36,8 +36,10 @@ IDE:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazaretCS&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazaretCS&layout=compact&theme=transparent)] <br>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazaretCS&layout=compact&theme=transparent)](https://github.com/NazaretCS/github-readme-stats) <br>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NazaretCS)  
