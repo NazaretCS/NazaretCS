@@ -14,9 +14,9 @@
 
 Soy **Nazaret Campos**, técnico en Computación y estudiante de desarrollo Full Stack con foco en el stack **MERN**. Me apasiona construir proyectos web desde cero, resolver problemas reales y aprender haciendo.
 
-📍 Buenos Aires, Argentina &nbsp;|&nbsp; 📬 [nazaretcampos27@gmail.com](mailto:nazaretcampos27@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://nazaretcs.netlify.app/)
+📍 Tucumán, Argentina &nbsp;|&nbsp; 📬 [nazaretcampos27@gmail.com](mailto:nazaretcampos27@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://nazaretcs.netlify.app/)
 
-> *Regla #1: nunca codear sin mate. Regla #2: de 3 a 7pm no existo. El resto del tiempo, full stack en construcción.* 🧉
+> *Regla de Oro: nunca codear sin mate.* 🧉
 
 ---
 
@@ -34,6 +34,7 @@ Soy **Nazaret Campos**, técnico en Computación y estudiante de desarrollo Full
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **🚀 Aprendiendo — MERN Stack**
 
@@ -43,7 +44,7 @@ Soy **Nazaret Campos**, técnico en Computación y estudiante de desarrollo Full
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 **Herramientas**
 
@@ -55,12 +56,12 @@ Soy **Nazaret Campos**, técnico en Computación y estudiante de desarrollo Full
 
 ### 🚀 Proyectos destacados
 
-| | Proyecto | Descripción | Stack |
-|--|----------|-------------|-------|
-| 🔥 | [**Tracksy**](https://github.com/NazaretCS) *(en desarrollo)* | PWA para seguimiento de hábitos con sync en tiempo real. Night-Owl Friendly — sin las limitaciones del cambio de fecha convencional. | React · Vite · Tailwind · Supabase · Zustand · Recharts |
-| 🌐 | [**Tu Proyecto Web**](https://github.com/NazaretCS/NOMBRE-DEL-REPO) | [Reemplazá con una descripción breve de tu proyecto] | HTML · CSS · JS |
+|     | Proyecto                                                         | Descripción                                                                                                                              | Stack                                                   |
+| --- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 🔥  | [**Tracksy**](https://github.com/NazaretCS) *(en desarrollo)*    | PWA para seguimiento de hábitos con sincronización en tiempo real. Pensada para uso flexible sin depender del cambio de día tradicional. | React · Vite · Tailwind · Supabase · Zustand · Recharts |
+| 📅  | [**Mi Turno Tuc**]([https://github.com/NazaretCS/NOMBRE-DEL-REPO](https://github.com/FranceFalci/turnero)) | Aplicación web para gestión de turnos, permitiendo organizar reservas y optimizar la atención de usuarios.                               | React · Node.js · Express · MongoDB                     |
+| 🍽️ | [**RestoCode**]([https://github.com/NazaretCS/NOMBRE-DEL-REPO](https://github.com/MRieznik/RestoCodeFront))    | Sistema de pedidos online para restaurantes con gestión de carrito, productos y flujo de compra.                                         | JavaScript · Node.js · Express · MongoDB                |
 
-> ⚠️ *Actualizá el link y descripción del proyecto web con tu repo real.*
 
 ---
 
