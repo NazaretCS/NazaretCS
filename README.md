@@ -1,18 +1,18 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Hola,%20soy%20Nazaret!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Dev%20en%20construcción%20·%20Buenos%20Aires&descSize=14&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Hola,%20soy%20Nazaret!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Web%20Full%20Stack&descSize=14&descAlignY=75)
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Mate+en+mano%2C+c%C3%B3digo+en+mente+%E2%98%95;Building+Tracksy...+%F0%9F%9A%80;Full+Stack+Dev+en+construcci%C3%B3n+%F0%9F%9B%A0%EF%B8%8F;Night-owl+%26+morning-coder+%F0%9F%8C%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Mate+en+mano%2C+c%C3%B3digo+en+mente;Building+Tracksy...+%F0%9F%9A%80;Full+Stack+Dev+%F0%9F%8C%99" alt="Typing SVG" />
 
 ---
 
 ### 💻 Sobre mí
 
-Soy **Nazaret Campos**, técnico en Computación y estudiante de desarrollo Full Stack con foco en el stack **MERN**. Me apasiona construir proyectos web desde cero, resolver problemas reales y aprender haciendo.
+Soy **Nazaret Campos**, estudiante de Informática. Desarrollo aplicaciones web y me enfoco en crear soluciones prácticas mientras sigo aprendiendo.
 
 📍 Tucumán, Argentina &nbsp;|&nbsp; 📬 [nazaretcampos27@gmail.com](mailto:nazaretcampos27@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://nazaretcs.netlify.app/)
 
@@ -58,7 +58,7 @@ Soy **Nazaret Campos**, técnico en Computación y estudiante de desarrollo Full
 
 |     | Proyecto                                                         | Descripción                                                                                                                              | Stack                                                   |
 | --- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 🔥  | [**Tracksy**](https://github.com/NazaretCS) *(en desarrollo)*    | PWA para seguimiento de hábitos con sincronización en tiempo real. Pensada para uso flexible sin depender del cambio de día tradicional. | React · Vite · Tailwind · Supabase · Zustand · Recharts |
+| 🔥  | [**Tracksy**](https://github.com/NazaretCS/Tracksy) *(en desarrollo)*    | PWA para seguimiento de hábitos con sincronización en tiempo real. Pensada para uso flexible sin depender del cambio de día tradicional. | React · Vite · Tailwind · Supabase · Zustand · Recharts |
 | 📅  | [**Mi Turno Tuc**]([https://github.com/NazaretCS/NOMBRE-DEL-REPO](https://github.com/FranceFalci/turnero)) | Aplicación web para gestión de turnos, permitiendo organizar reservas y optimizar la atención de usuarios.                               | React · Node.js · Express · MongoDB                     |
 | 🍽️ | [**RestoCode**]([https://github.com/NazaretCS/NOMBRE-DEL-REPO](https://github.com/MRieznik/RestoCodeFront))    | Sistema de pedidos online para restaurantes con gestión de carrito, productos y flujo de compra.                                         | JavaScript · Node.js · Express · MongoDB                |
 
