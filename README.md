@@ -1,7 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Hola,%20soy%20Nazaret!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Web%20Full%20Stack&descSize=14&descAlignY=75)
-
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Hola,%20soy%20Nazaret!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Web%20Full%20Stack&descSize=14&descAlignY=75" width="100%" />
+</picture>
 </div>
 
 ---
@@ -96,6 +97,7 @@ Soy **Nazaret Campos**, estudiante de Informática. Desarrollo aplicaciones web 
 
 ![Profile views](https://komarev.com/ghpvc/?username=NazaretCS&color=4f46e5&style=for-the-badge&label=visitas+al+perfil)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=100&section=footer)
-
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=100&section=footer" width="100%" />
+</picture>
 </div>
